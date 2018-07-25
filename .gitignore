@@ -1,0 +1,5 @@
+*.pyc
+*.txt
+outdir/
+filelists/*.*
+ljs_dataset_folder/
