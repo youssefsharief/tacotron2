@@ -1,0 +1,6 @@
+{
+    "search.exclude": {
+        "**/*/*.txt": true,
+        "**/bower_components": true
+      }
+}
